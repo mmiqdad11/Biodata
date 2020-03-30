@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biodata</string>
+    <string name="labelapp">Form Pendaftaran</string>
+    <string name="nm">Nama</string>
+    <string name="alm">Alamat</string>
+    <string name="btn">Login</string>
+    <string name="nohp">Nomor HP</string>
+    <string name="itm">Item</string>
+    <string name="hps">Hapus</string>
+</resources>
